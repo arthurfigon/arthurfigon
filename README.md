@@ -2,6 +2,8 @@
 
 ### Eu me chamo Arthur, graduado em Ciência da Computação pela URI - Santo Ângelo, atualmente trabalho na Foursys mas todos os códigos que for fazendo para práticar ou por conta própria, eu predendo postar aqui!
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurfigon&show_icons=true&locale=en" alt="Arthur Figueiredo Gonçalves" />
+
 [![followersGit](https://img.shields.io/github/followers/arthurfigon?style=social)](https://github.com/arthurfigon)
 <!--
 **arthurfigon/arthurfigon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
