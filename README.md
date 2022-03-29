@@ -1,4 +1,4 @@
-<h1> <img align="left" height="125px" style="border-radius:50px;" src="https://camo.githubusercontent.com/629ac1cf5ac75fe9d5446381f0b55f283343bd67cda96f5a92e51053a85cd115/68747470733a2f2f696d322e657a6769662e636f6d2f746d702f657a6769662d322d373836613537633361622e676966"> Hey!! 👋😀<br>My name is Arthur Figueiredo (Sysor)<br>I'm a Java Developer ready to show you my projects!!</h1>
+<h1> <img align="left" height="120px" style="border-radius:50px;" src="https://camo.githubusercontent.com/629ac1cf5ac75fe9d5446381f0b55f283343bd67cda96f5a92e51053a85cd115/68747470733a2f2f696d322e657a6769662e636f6d2f746d702f657a6769662d322d373836613537633361622e676966"> Hey!! 👋😀<br>My name is Arthur Figueiredo (Sysor)<br>I'm a Java Developer ready to show you my projects!!</h1>
 <div align="left">
   <a href="https://github.com/arthurfigon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurfigon&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
