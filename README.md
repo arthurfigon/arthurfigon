@@ -1,4 +1,4 @@
-<h1> <img align="left" height="105px" style="border-radius:50px;" src="https://camo.githubusercontent.com/629ac1cf5ac75fe9d5446381f0b55f283343bd67cda96f5a92e51053a85cd115/68747470733a2f2f696d322e657a6769662e636f6d2f746d702f657a6769662d322d373836613537633361622e676966">Arthur Figueiredo (Sysor)</h1><h2>Java Developer</h2>
+<h1> Arthur Figueiredo (Sysor)</h1><h2>Java Developer</h2>
 <div style="display: inline_block"><br>
   <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
